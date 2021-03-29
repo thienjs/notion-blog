@@ -38,7 +38,7 @@
 }
 .escapePreview:hover {
   background-color: white;
-  color: black;
+  color: rgb(36, 36, 36);
   border: 1px solid black;
   cursor: pointer;
 }

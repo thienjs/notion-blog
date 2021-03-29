@@ -23,7 +23,7 @@ const contacts = [
   {
     Comp: LinkedIn,
     alt: 'linkedin icon',
-    link: 'https://www.linkedin.com/in/jj-kasper-0b5392166/',
+    link: 'https://www.linkedin.com/in/thien/',
   },
   {
     Comp: Envelope,
